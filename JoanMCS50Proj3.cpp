@@ -1,11 +1,8 @@
-//
-// main.cpp
-//
+
 // Mariam Joan
 // Project 3
 // Program to read in numbers, and find min, max, count, total, and average, enter 0 to exit
 // Due: July 10, 2020
-// Copyright © 2020 Mariam Joan. All rights reserved.
 
 #include <errno.h>
 #include <stdio.h>
